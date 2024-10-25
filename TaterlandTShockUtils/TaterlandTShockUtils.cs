@@ -1,8 +1,8 @@
-﻿using TerrariaApi.Server;
-using Terraria;
+﻿using Terraria;
+using TerrariaApi.Server;
 using TShockAPI;
 
-namespace PluginTemplate;
+namespace TaterlandTShockUtils;
 
 /// <summary>
 /// The main plugin class should always be decorated with an ApiVersion attribute. The current API Version is 2.1
